@@ -85,7 +85,7 @@
   }
   .avatar{
     border-radius: 3px;
-    width: 2.4rem;
+    width: 1rem;
     filter: drop-shadow(1px 1px 1px var(--shadow-filter));
   }
   .header-right .notify-counter{
