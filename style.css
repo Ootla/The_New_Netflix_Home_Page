@@ -84,7 +84,7 @@
     margin-left: .3rem;
   }
   .avatar{
-    border-radius: 3px;
+    border-radius: 1px;
     width: 1rem;
     filter: drop-shadow(1px 1px 1px var(--shadow-filter));
   }
